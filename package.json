@@ -1,0 +1,18 @@
+{
+  "name": "14.8",
+  "version": "1.0.0",
+  "description": "It search gifs on internet",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server"
+  },
+  "keywords": [
+    "gif",
+    "search"
+  ],
+  "author": "Mariusz Szlachta",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  }
+}
